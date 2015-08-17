@@ -14,7 +14,7 @@
 # permissions and limitations under the License.
 
 # ELB_LIST defines which Elastic Load Balancers this instance should be part of.
-ELB_LIST="devops-bootcam-Elb-82190F60RT5V-1463788514"
+ELB_LIST="venu-devops-bo-Elb-SDJCY9Y9BOW9-490147743"
 
 # Under normal circumstances, you shouldn't need to change anything below this line.
 # -----------------------------------------------------------------------------
